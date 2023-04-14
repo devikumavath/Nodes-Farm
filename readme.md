@@ -6,20 +6,20 @@ This is a mini project which is Node-Farm. Using node.js file system.
 
 #### Project Demo :
 
-![ProjectDemo](https://github.com/devikumavath/Node-Farm/blob/main/final/screenShots/projectDemo.gif)
+![ProjectDemo](https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/projectDemo.gif)
 
 #### Home Page :
 
-<!-- ![https://github.com/devikumavath/Node-Farm/blob/main/final/screenShots/homePage.png] | width=640) -->
+<!-- ![https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/homePage.png] | width=640) -->
 
-<img src="https://github.com/devikumavath/Node-Farm/blob/main/final/screenShots/homePage.png" width="640">
+<img src="https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/homePage.png" width="640">
 
 
 #### CheckOut Page:
 
-<!-- ![https://github.com/devikumavath/Node-Farm/blob/main/final/screenShots/checkoutPage.png] | width=640) -->
+<!-- ![https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/checkoutPage.png] | width=640) -->
 
-<img src="https://github.com/devikumavath/Node-Farm/blob/main/final/screenShots/checkoutPage.png" width="640">
+<img src="https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/checkoutPage.png" width="640">
 
 ## Getting Started ✨
 
